@@ -4,18 +4,17 @@ A **Java Web-based Inventory and Billing System** built using **JSP, Servlets**,
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
 ## 🚀 Features
 
-✅ Add, edit, and delete inventory items
-✅ Generate and manage billing invoices
-✅ User authentication and session management
-✅ Real-time inventory updates
-✅ Responsive UI built with JSP
-✅ Backend powered by Servlets and MySQL database
+✅ Add, edit, and delete inventory items <br />
+✅ Generate and manage billing invoices <br />
+✅ User authentication and session management<br />
+✅ Real-time inventory updates <br />
+✅ Responsive UI built with JSP <br />
+✅ Backend powered by Servlets and MySQL database <br />
 
 ---
 
@@ -30,12 +29,12 @@ A **Java Web-based Inventory and Billing System** built using **JSP, Servlets**,
 
 2. **Import Project**
 
-   * Open in your favorite Java IDE (e.g., Eclipse, IntelliJ).
+   * Open in your Eclipse Java IDE.
    * Configure as a Dynamic Web Project.
 
 3. **Set up the database**
 
-   * Import the SQL dump file `database/inventory.sql` into MySQL.
+   * Import the SQL dump file `db/inventorysystem.sql` into MySQL.
    * Update `dbconfig.properties` with your database credentials.
 
 4. **Run the server**
@@ -61,11 +60,6 @@ A **Java Web-based Inventory and Billing System** built using **JSP, Servlets**,
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🌟 Show your support
 
